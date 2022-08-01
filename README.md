@@ -1,7 +1,12 @@
 # simon-game-js
 This repository includes an indie game "simon" built using javascript.
 
+#### To play this game, you will need to memorise the sequence of automatic trigger buttons from the very beganing to end. And, click the same sequence using mouse or touch.
+
 ### Play Online: [click here](https://pooja-chaudhary.github.io/simon-game-js/)
+
+
+
 ```
 Copyright (c) 2022 Pooja Chaudhary
 Website: https://pooja-chaudhary.github.io
